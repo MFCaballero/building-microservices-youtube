@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/nicholasjackson/building-microservices-youtube/product-api/data"
+	"github.com/MFCaballero/go_crash_course/14_web_ms_gorillafw/building-microservices-youtube/product-api/data"
 )
 
 // swagger:route GET /products products listProducts

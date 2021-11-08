@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
+	protos "github.com/MFCaballero/go_crash_course/14_web_ms_gorillafw/building-microservices-youtube/currency/protos/currency"
 	"github.com/hashicorp/go-hclog"
-	protos "github.com/nicholasjackson/building-microservices-youtube/currency/protos/currency"
 )
 
 // ErrProductNotFound is an error raised when a product can not be found in the database

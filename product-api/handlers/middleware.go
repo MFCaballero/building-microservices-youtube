@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/nicholasjackson/building-microservices-youtube/product-api/data"
+	"github.com/MFCaballero/go_crash_course/14_web_ms_gorillafw/building-microservices-youtube/product-api/data"
 )
 
 // MiddlewareValidateProduct validates the product in the request and calls next if ok
